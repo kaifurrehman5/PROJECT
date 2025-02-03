@@ -162,11 +162,15 @@
     
   }
 
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 600px) {
     .hq img
     {
       margin-left: 36px !important;
     }
+    
+  }
+
+  @media only screen and (max-width: 600px) {
     #jj{
       margin-left:57px;
     }
