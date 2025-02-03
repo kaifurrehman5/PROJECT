@@ -162,7 +162,7 @@
     
   }
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 500px) {
     .hq img
     {
       margin-left: 36px !important;
