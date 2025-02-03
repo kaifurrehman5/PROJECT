@@ -162,6 +162,11 @@
     }
   }
 
+  @media only screen and (max-width: 425px) {
+    .ho img{
+      height: 150px;
+    }
+    }
 
   /* CONTACT START */
 .all
