@@ -156,7 +156,7 @@ body
     left: 48%;
   }
 }
-@media only screen and (max-width: 376px) {
+@media only screen and (max-width: 630px) {
 .hy img{
   height: 250px;
 }
