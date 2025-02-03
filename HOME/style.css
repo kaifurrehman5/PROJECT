@@ -159,8 +159,15 @@
     .picc img{
       display: none;
     }
+    
   }
 
+  @media only screen and (max-width: 600px) {
+    .hq img
+    {
+      margin-left: 36px !important;
+    }
+  }
 
 
   @keyframes slide {
