@@ -170,7 +170,7 @@
     
   }
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 320px) {
     #jj{
       margin-left:57px;
     }
