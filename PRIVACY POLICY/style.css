@@ -166,3 +166,39 @@ p
 {
     font-family: math;
 }
+
+/* FOOTER START */
+footer
+{
+  background-color: black;
+  border-radius: 30px;
+}
+span
+{
+  color: white;
+}
+.link a
+{
+  text-decoration: none;
+  color: #633899;
+  font-size: 25px;
+}
+.link a:hover
+{
+ color: white;
+}
+
+a
+{
+  color: white;
+  
+}
+h6
+{
+  color: white;
+}
+
+#oo{
+ color: white;
+}
+/* FOOTER END */
