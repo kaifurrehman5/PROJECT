@@ -351,7 +351,7 @@ p{
 }
 /* FOOTER END */
 
-@media screen and (max-width:767px) {
+@media (max-width:767px) {
 
   .contact
   {
